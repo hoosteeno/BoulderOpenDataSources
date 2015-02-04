@@ -26,3 +26,8 @@ We may one day wish to segment this information into more files, or to include g
 * Go through census items
     * Submit updated data where available to the census
     * If not available, submit a [request for that data](https://user.govoutreach.com/boulder/support.php?classificationId=22334&caseType=Question&websiteIssues=Open+Data). 
+
+### What would be awesome to do? (Brainstorms) ###
+* Automate mirroring of data sources, whether through copying or scraping. Put that code in this repo, as well as its output.
+* Create lightweight interfaces around mirrored data. Deploy to the web or make functional local deploy scripts. 
+
