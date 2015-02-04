@@ -20,7 +20,7 @@ We may one day wish to segment this information into more files, or to include g
 * Converters
     * SHP to KML (shapefile to KML)
 * Readers
-    * (ArcReader)[http://www.esri.com/software/arcgis/arcreader/download]
+    * [ArcReader](http://www.esri.com/software/arcgis/arcreader/download)
 
 ### TODO ###
 * Go through census items
