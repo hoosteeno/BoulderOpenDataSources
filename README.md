@@ -15,10 +15,6 @@ We may one day wish to segment this information into more files, or to include g
 * [Colorado Open Data](http://data.opencolorado.org/)
 * [DRCOG Open Data](http://gis.drcog.org/datacatalog/)
 
-### Data Categories ###
-* Transit
-    * http://maps.rtd-denver.com/GisDatadownload/datadownload.aspx
-    * http://data.opencolorado.org/dataset?q=rtd
 
 ### Tools ###
 * Converters
