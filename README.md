@@ -11,16 +11,16 @@ We may one day wish to segment this information into more files, or to include g
 [Boulder page in the Open Data Census](http://us-city.census.okfn.org/place/boulder)
 
 ### Major Open Data Sources ###
-    * [Boulder Open Data](http://bouldercolorado.gov/open-data)
-    * [Colorado Open Data](http://data.opencolorado.org/)
-    * [DRCOG Open Data](http://gis.drcog.org/datacatalog/)
+* [Boulder Open Data](http://bouldercolorado.gov/open-data)
+* [Colorado Open Data](http://data.opencolorado.org/)
+* [DRCOG Open Data](http://gis.drcog.org/datacatalog/)
 
 ### Categories ###
-    * Transit
-        * http://maps.rtd-denver.com/GisDatadownload/datadownload.aspx
-        * http://data.opencolorado.org/dataset?q=rtd
+* Transit
+    * http://maps.rtd-denver.com/GisDatadownload/datadownload.aspx
+    * http://data.opencolorado.org/dataset?q=rtd
 
 ### TODO ###
-    * Go through census items
-        * Submit updated data where available to the census
-        * If not available, submit a [request for that data](https://user.govoutreach.com/boulder/support.php?classificationId=22334&caseType=Question&websiteIssues=Open+Data). 
+* Go through census items
+    * Submit updated data where available to the census
+    * If not available, submit a [request for that data](https://user.govoutreach.com/boulder/support.php?classificationId=22334&caseType=Question&websiteIssues=Open+Data). 
